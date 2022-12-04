@@ -1,1 +1,1 @@
-# Automacao_envio_emails
+# Automação de Envio de Emails utilizando c#
